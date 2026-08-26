@@ -1,0 +1,5 @@
+{
+  "toolAliases": [
+    ["subagent", "mcp__subagent__run"]
+  ]
+}

@@ -1,0 +1,83 @@
+{
+	"$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+	"name": "ghostty-amber",
+	"vars": {
+		"bg": "#14191a",
+		"panel": "#2d2c29",
+		"panelSoft": "#252724",
+		"amber": "#d2a44b",
+		"amberSoft": "#a98035",
+		"cream": "#eadfbd",
+		"muted": "#b9aa8d",
+		"dim": "#786f61",
+		"green": "#9abd75",
+		"red": "#d17b68",
+		"blue": "#86a5b8",
+		"purple": "#b293b8",
+		"line": "#5f5a4d"
+	},
+	"colors": {
+		"accent": "amber",
+		"border": "line",
+		"borderAccent": "amber",
+		"borderMuted": "line",
+		"success": "green",
+		"error": "red",
+		"warning": "amber",
+		"muted": "muted",
+		"dim": "dim",
+		"text": "cream",
+		"thinkingText": "muted",
+
+		"selectedBg": "panelSoft",
+		"userMessageBg": "panel",
+		"userMessageText": "cream",
+		"customMessageBg": "panelSoft",
+		"customMessageText": "cream",
+		"customMessageLabel": "amber",
+		"toolPendingBg": "",
+		"toolSuccessBg": "#1d261d",
+		"toolErrorBg": "#2a1e1c",
+		"toolTitle": "amber",
+		"toolOutput": "muted",
+
+		"mdHeading": "amber",
+		"mdLink": "blue",
+		"mdLinkUrl": "dim",
+		"mdCode": "green",
+		"mdCodeBlock": "cream",
+		"mdCodeBlockBorder": "line",
+		"mdQuote": "muted",
+		"mdQuoteBorder": "amberSoft",
+		"mdHr": "line",
+		"mdListBullet": "amber",
+
+		"toolDiffAdded": "green",
+		"toolDiffRemoved": "red",
+		"toolDiffContext": "muted",
+
+		"syntaxComment": "dim",
+		"syntaxKeyword": "blue",
+		"syntaxFunction": "amber",
+		"syntaxVariable": "cream",
+		"syntaxString": "green",
+		"syntaxNumber": "purple",
+		"syntaxType": "blue",
+		"syntaxOperator": "muted",
+		"syntaxPunctuation": "muted",
+
+		"thinkingOff": "dim",
+		"thinkingMinimal": "amberSoft",
+		"thinkingLow": "blue",
+		"thinkingMedium": "amber",
+		"thinkingHigh": "purple",
+		"thinkingXhigh": "red",
+
+		"bashMode": "green"
+	},
+	"export": {
+		"pageBg": "bg",
+		"cardBg": "panel",
+		"infoBg": "#211f1a"
+	}
+}
