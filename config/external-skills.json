@@ -1,0 +1,108 @@
+[
+  {
+    "source": "anthropics/skills",
+    "skills": [
+      "docx"
+    ]
+  },
+  {
+    "source": "better-auth/better-icons",
+    "skills": [
+      "better-icons"
+    ]
+  },
+  {
+    "source": "dmmulroy/anti-slop",
+    "skills": [
+      "install-anti-slop"
+    ]
+  },
+  {
+    "source": "julianoczkowski/designer-skills",
+    "skills": [
+      "frontend-design"
+    ]
+  },
+  {
+    "source": "majesteitbart/talentmatcher",
+    "skills": [
+      "shadcn-ui-expert"
+    ]
+  },
+  {
+    "source": "mattpocock/skills",
+    "skills": [
+      "codebase-design",
+      "diagnose",
+      "grill-me",
+      "grill-with-docs",
+      "improve-codebase-architecture",
+      "tdd",
+      "teach",
+      "to-issues",
+      "to-prd",
+      "write-a-skill",
+      "zoom-out"
+    ]
+  },
+  {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skills": [
+      "ui-ux-pro-max"
+    ]
+  },
+  {
+    "source": "nicobailon/visual-explainer",
+    "skills": [
+      "visual-explainer"
+    ]
+  },
+  {
+    "source": "obra/superpowers",
+    "skills": [
+      "systematic-debugging"
+    ]
+  },
+  {
+    "source": "resciencelab/opc-skills",
+    "skills": [
+      "logo-creator"
+    ]
+  },
+  {
+    "source": "shadcn/ui",
+    "skills": [
+      "shadcn"
+    ]
+  },
+  {
+    "source": "squirrelscan/skills",
+    "skills": [
+      "audit-website"
+    ]
+  },
+  {
+    "source": "ulpi-io/skills",
+    "skills": [
+      "frontend-design-ui-ux"
+    ]
+  },
+  {
+    "source": "vercel-labs/agent-skills",
+    "skills": [
+      "web-design-guidelines"
+    ]
+  },
+  {
+    "source": "vercel-labs/skills",
+    "skills": [
+      "find-skills"
+    ]
+  },
+  {
+    "source": "wshobson/agents",
+    "skills": [
+      "tailwind-design-system"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "defaultThinkingLevel": "xhigh",
+  "theme": "jellybeans",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.6-sol",
+  "hideThinkingBlock": true,
+  "compaction": {
+    "enabled": true
+  },
+  "skills": [
+    "!frontend-design"
+  ],
+  "steeringMode": "one-at-a-time",
+  "quietStartup": true,
+  "packages": [
+    "npm:pi-simplify",
+    "npm:pi-markdown-preview",
+    "npm:pi-btw",
+    {
+      "source": "npm:mitsupi",
+      "extensions": [
+        "-extensions/multi-edit.ts"
+      ]
+    },
+    "npm:pi-blackboard-theme",
+    "npm:@victor-software-house/pi-curated-themes",
+    "npm:pi-rtk-optimizer",
+    {
+      "source": "npm:@plannotator/pi-extension",
+      "skills": []
+    },
+    "npm:@heyhuynhgiabuu/pi-diff",
+    "npm:@benvargas/pi-claude-code-use",
+    "npm:pi-quota-status",
+    "git:github.com/Michaelliv/pi-goal",
+    "npm:pi-autoresearch"
+  ]
+}
